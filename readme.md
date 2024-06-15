@@ -12,8 +12,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/smcnab1/qmk_firmware">
-    <img src="https://github.com/smcnab1/qmk_firmware/blob/master/.github/images/QMK%20Icon.png?raw=true" alt="Logo" width="80" height="80">
+  <a href="https://github.com/smcnab1/qmk-firmware">
+    <img src="https://github.com/smcnab1/qmk-firmware/blob/master/.github/images/QMK%20Icon.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">QMK Firmware</h3>
@@ -21,14 +21,14 @@
   <p align="center">
     Storing my Keychron QMK Firmware 🚀📁
     <br />
-    <a href="https://github.com/smcnab1/qmk_firmware"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/smcnab1/qmk-firmware"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/smcnab1/qmk_firmware">View Demo</a>
+    <a href="https://github.com/smcnab1/qmk-firmware">View Demo</a>
     ·
-    <a href="https://github.com/smcnab1/qmk_firmware/issues">Report Bug</a>
+    <a href="https://github.com/smcnab1/qmk-firmware/issues">Report Bug</a>
     ·
-    <a href="https://github.com/smcnab1/qmk_firmware/issues">Request Feature</a>
+    <a href="https://github.com/smcnab1/qmk-firmware/issues">Request Feature</a>
   </p>
 </div>
 
@@ -62,7 +62,7 @@ This repository can be used to store my QMK Firmware for my Keychron Mechanical 
 
 - [ ] Finalise Documentation.
 
-See the [open issues](https://github.com/smcnab1/qmk_firmware/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/smcnab1/qmk-firmware/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,16 +91,16 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/smcnab1/qmk_firmware.svg?style=for-the-badge
-[contributors-url]: https://github.com/smcnab1/qmk_firmware/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/smcnab1/qmk_firmware.svg?style=for-the-badge
-[forks-url]: https://github.com/smcnab1/qmk_firmware/network/members
-[stars-shield]: https://img.shields.io/github/stars/smcnab1/qmk_firmware.svg?style=for-the-badge
-[stars-url]: https://github.com/smcnab1/qmk_firmware/stargazers
-[issues-shield]: https://img.shields.io/github/issues/smcnab1/qmk_firmware.svg?style=for-the-badge
-[issues-url]: https://github.com/smcnab1/qmk_firmware/issues
-[license-shield]: https://img.shields.io/github/license/smcnab1/qmk_firmware.svg?style=for-the-badge
-[license-url]: https://github.com/smcnab1/qmk_firmware/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/smcnab1/qmk-firmware.svg?style=for-the-badge
+[contributors-url]: https://github.com/smcnab1/qmk-firmware/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/smcnab1/qmk-firmware.svg?style=for-the-badge
+[forks-url]: https://github.com/smcnab1/qmk-firmware/network/members
+[stars-shield]: https://img.shields.io/github/stars/smcnab1/qmk-firmware.svg?style=for-the-badge
+[stars-url]: https://github.com/smcnab1/qmk-firmware/stargazers
+[issues-shield]: https://img.shields.io/github/issues/smcnab1/qmk-firmware.svg?style=for-the-badge
+[issues-url]: https://github.com/smcnab1/qmk-firmware/issues
+[license-shield]: https://img.shields.io/github/license/smcnab1/qmk-firmware.svg?style=for-the-badge
+[license-url]: https://github.com/smcnab1/qmk-firmware/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sammcnab/
 [product-screenshot]: images/screenshot.png
